@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirban Mishra</h1>
+<img src="https://assets.leetcode.com/users/avatars/avatar_1666595793.png" align="center"></img>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-629&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-629" /> </p>
