@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anirban Mishra</h1>
-<img src="https://assets.leetcode.com/users/avatars/avatar_1666595793.png" align="center"></img>
+<h1 align="center">Hi 👋, I'm Anirban Mishra
+</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-629&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-629" /> </p>
+<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirban-629" alt="anirban-629" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-629&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-629" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban-629&show_icons=true&locale=en" alt="anirban-629" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirban-629" alt="anirban-629" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban-629&" alt="anirban-629" /></p>
